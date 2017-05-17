@@ -14,4 +14,12 @@ One of the simplest two-player games is “Guess the number”. The first player
 
 * ### [Guess The Number](https://github.com/Arun44/Fundamentals-Of-Computing-Specialization/blob/master/Course1/Week3/Guess-The-Number.py)
 
+### Week 4 - Stop Watch
+
+<p align="left">
+Our mini-project for this week will focus on combining text drawing in the canvas with timers to build a simple digital stopwatch that keeps track of the time in tenths of a second. The stopwatch should contain "Start", "Stop" and "Reset" buttons.
+</p>
+
+* ### [Stop Watch](https://github.com/Arun44/Fundamentals-Of-Computing-Specialization/blob/master/Course1/Week4/Stop-Watch.py)
+
 
