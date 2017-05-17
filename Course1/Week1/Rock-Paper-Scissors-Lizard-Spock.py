@@ -84,7 +84,7 @@ def rpsls(player_choice):
     else:
         num = (playernum - computernum) % 5;
         if num == 1 or num == 2:
-            print Player wins!';
+            print 'Player wins!';
         else:
             print 'Computer wins!';
     print;
