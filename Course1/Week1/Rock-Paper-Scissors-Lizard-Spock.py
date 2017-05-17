@@ -69,31 +69,24 @@ def rpsls(player_choice):
 
     # use if/elif/else to determine winner, print winner message
     import random
-    print
-    'Player chooses', player_choice;
+    print 'Player chooses', player_choice;
     playernum = name_to_number(player_choice);
     computernum = random.randrange(0, 5);
-    print
-    'Computer chooses', number_to_name(computernum);
+    print 'Computer chooses', number_to_name(computernum);
     num = playernum - computernum;
     if num > 0:
         if num == 1 or num == 2:
-            print
-            'Player wins!';
+            print 'Player wins!';
         else:
-            print
-            'Computer wins!';
+            print 'Computer wins!';
     elif num == 0:
-        print
-        'Player and Computer tie!';
+        print 'Player and Computer tie!';
     else:
         num = (playernum - computernum) % 5;
         if num == 1 or num == 2:
-            print
-            'Player wins!';
+            print Player wins!';
         else:
-            print
-            'Computer wins!';
+            print 'Computer wins!';
     print;
 
 
