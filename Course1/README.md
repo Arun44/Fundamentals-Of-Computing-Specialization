@@ -27,3 +27,5 @@ Our mini-project for this week will focus on combining text drawing in the canva
 <p align="left">
 In this project, we will build a version of Pong, one of the first arcade video games (1972).Pong is a two-dimensional sports game that simulates table tennis. The player controls an in-game paddle by moving it vertically across the left side of the screen, and can compete against either a computer-controlled opponent or another player controlling a second paddle on the opposing side. Players use the paddles to hit a ball back and forth. 
 </p>
+
+* ### [Pong](https://github.com/Arun44/Fundamentals-Of-Computing-Specialization/blob/master/Course1/Week5/Pong.py)
