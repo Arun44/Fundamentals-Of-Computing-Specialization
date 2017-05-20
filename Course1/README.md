@@ -14,7 +14,7 @@ One of the simplest two-player games is “Guess the number”. The first player
 
 * ### [Guess The Number](https://github.com/Arun44/Fundamentals-Of-Computing-Specialization/blob/master/Course1/Week3/Guess-The-Number.py)
 
-### Week 4 - Stop Watch
+### WEEK 4 - Stop Watch
 
 <p align="left">
 Our mini-project for this week will focus on combining text drawing in the canvas with timers to build a simple digital stopwatch that keeps track of the time in tenths of a second. The stopwatch should contain "Start", "Stop" and "Reset" buttons.
@@ -22,4 +22,8 @@ Our mini-project for this week will focus on combining text drawing in the canva
 
 * ### [Stop Watch](https://github.com/Arun44/Fundamentals-Of-Computing-Specialization/blob/master/Course1/Week4/Stop-Watch.py)
 
+### WEEK 5 - Pong
 
+<p align="left">
+In this project, we will build a version of Pong, one of the first arcade video games (1972).Pong is a two-dimensional sports game that simulates table tennis. The player controls an in-game paddle by moving it vertically across the left side of the screen, and can compete against either a computer-controlled opponent or another player controlling a second paddle on the opposing side. Players use the paddles to hit a ball back and forth. 
+</p>
