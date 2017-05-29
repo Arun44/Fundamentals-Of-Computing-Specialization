@@ -30,4 +30,4 @@ In this project, we will build a version of Pong, one of the first arcade video 
 
 * ### [Pong](https://github.com/Arun44/Fundamentals-Of-Computing-Specialization/blob/master/Course1/Week5/Pong.py)
 
-## Copy and Paste the code in Codeskulptor.org to play the above games :)
+## Copy and Paste the codes in Codeskulptor.org to play the above games :)
